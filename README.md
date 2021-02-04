@@ -1,2 +1,4 @@
-# bhavani.github.io
-Hloo this is my ebsite
+#BHAVANI
+##EDUCTIONAL DETAILS:
+**COLLEGE NAME:SRI VASAVI ENGINEERING COLLEGE
+**BRANCH ECT
